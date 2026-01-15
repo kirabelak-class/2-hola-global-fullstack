@@ -1,0 +1,6 @@
+git chceckout -b estudiante/kaleb_rodriguez
+=creamos el archivo
+-guardamos
+=git add .
+-git commit -m "add ccomit.txt"
+-git push origin main
